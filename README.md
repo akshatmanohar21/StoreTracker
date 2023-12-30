@@ -13,10 +13,4 @@ The app boasts a clean, intuitive interface, making it accessible for users to e
 The app is open to contributions!
 
 
-dependencies:
-flutter:
-sdk: flutter
-cupertino_icons: ^1.0.2
-intl: ^0.17.0
-image_picker: ^0.8.4
-dot_navigation_bar: ^1.0.2
+
